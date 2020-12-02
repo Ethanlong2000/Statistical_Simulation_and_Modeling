@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1614a033-479a-4ead-a1c5-34211807ce90" name="Default Changelist" comment="" />
+    <list default="true" id="1614a033-479a-4ead-a1c5-34211807ce90" name="Default Changelist" comment="KS检验">
+      <change afterPath="$PROJECT_DIR$/week13.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week14.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read-and-delete-me" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +37,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="0e8158a9-72c0-4115-8b0a-e39cbce737ee" />
   </component>
   <component name="ProjectId" id="1hZWexQgwzpz5M3gYEmI2bYXL37" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +71,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="KS检验" />
+    <option name="LAST_COMMIT_MESSAGE" value="KS检验" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Plugins" timestamp="1604717859926">
       <screen x="0" y="0" width="1536" height="864" />
@@ -51,10 +100,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600568350152" />
+    <state x="1025" y="333" key="Github.ShareDialog" timestamp="1605666316406">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1025" y="333" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1605666316406" />
+    <state x="599" y="133" key="Github.UntrackedFilesDialog" timestamp="1605666112791">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="133" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1605666112791" />
+    <state x="612" y="134" key="RollbackChangesDialog" timestamp="1606272288362">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="612" y="134" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1606272288362" />
     <state x="540" y="80" key="SettingsEditor" timestamp="1605666065385">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="540" y="80" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605666065385" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606873624823">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606873624823" />
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606272402054">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1606272402054" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1600219223941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
