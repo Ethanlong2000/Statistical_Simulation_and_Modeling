@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1614a033-479a-4ead-a1c5-34211807ce90" name="Default Changelist" comment="KS检验">
+    <list default="true" id="1614a033-479a-4ead-a1c5-34211807ce90" name="Default Changelist" comment="算p的值">
       <change afterPath="$PROJECT_DIR$/week13.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week14.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week15.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Read-and-delete-me" beforeDir="false" />
     </list>
@@ -69,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600219194078</updated>
     </task>
+    <task id="LOCAL-00001" summary="算p的值">
+      <created>1606876580079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606876580079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KS检验" />
-    <option name="LAST_COMMIT_MESSAGE" value="KS检验" />
+    <MESSAGE value="算p的值" />
+    <option name="LAST_COMMIT_MESSAGE" value="算p的值" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Plugins" timestamp="1604717859926">
@@ -116,10 +125,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="540" y="80" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605666065385" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606873624823">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606876587847">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606873624823" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606876587847" />
     <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606272402054">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
