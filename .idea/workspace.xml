@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1614a033-479a-4ead-a1c5-34211807ce90" name="Default Changelist" comment="15周">
+    <list default="true" id="1614a033-479a-4ead-a1c5-34211807ce90" name="Default Changelist" comment="作业1">
+      <change afterPath="$PROJECT_DIR$/week16.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week15.R" beforeDir="false" afterPath="$PROJECT_DIR$/week15.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607474626414</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="作业1">
+      <created>1607478396505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607478396505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +108,8 @@
     <MESSAGE value="KS检验" />
     <MESSAGE value="算p的值" />
     <MESSAGE value="15周" />
-    <option name="LAST_COMMIT_MESSAGE" value="15周" />
+    <MESSAGE value="作业1" />
+    <option name="LAST_COMMIT_MESSAGE" value="作业1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Plugins" timestamp="1604717859926">
@@ -111,10 +120,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1604717815643" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600568350152">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1608045212647">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600568350152" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608045212647" />
     <state x="1025" y="333" key="Github.ShareDialog" timestamp="1605666316406">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -131,10 +141,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="540" y="80" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605666065385" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607474639051">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607478406166">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607474639051" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607478406166" />
     <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606272402054">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
